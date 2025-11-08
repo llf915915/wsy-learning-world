@@ -4,12 +4,12 @@
 分类：Markdown练习
 ---
 
-#Geek精神
-#Github学习过程
-#在进入Github时遇到的阻碍
-##阻碍的发现
-##阻碍的解决
-#如何认为我的这篇笔记是否工整
+[Geek精神](#Geek精神)
+[Github学习过程](#Github学习过程)
+[在进入Github时遇到的阻碍](#在进入Github时遇到的阻碍)
+[阻碍的发现](##阻碍的发现)
+[阻碍的解决](##阻碍的解决)
+[如何认为我的这篇笔记是否工整](#如何认为我的这篇笔记是否工整)
 
 ***
 
@@ -49,6 +49,7 @@
 
 [1]:https://github.com/ntgeek/2025-Geek
 [2]:https://www.bilibili.com/video/BV1m4GhzEER3/?spm_id_from=333.1007.top_right_bar_window_default_collection.content.click&vd_source=3684995f1f6209b9a40ee5e4b340ebc8
+
 
 
 
