@@ -1,7 +1,7 @@
 ---
 日期：11.16
 作者：吴思雨
-分类：Markdown练习
+分类：Markdown
 ---
 
 [Geek精神](#Geek精神)
@@ -52,6 +52,7 @@
 
 [1]:https://github.com/ntgeek/2025-Geek
 [2]:https://www.bilibili.com/video/BV1m4GhzEER3/?spm_id_from=333.1007.top_right_bar_window_default_collection.content.click&vd_source=3684995f1f6209b9a40ee5e4b340ebc8
+
 
 
 
