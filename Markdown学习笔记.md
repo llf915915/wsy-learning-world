@@ -4,9 +4,13 @@
 分类：Markdown
 ---
 
+[Markdown学习笔记](#Markdown学习笔记)
 
+[基础语法](##基础语法)
 
-[toc]
+[块元素](###块元素)
+
+[Span元素](##Span元素)
 
 # Markdown学习笔记
 
@@ -58,9 +62,8 @@
 *（还有一些特殊输入，在此不作说明）*
 
 
-
 [^footnote1]:不论大小写
 
 [1]:https://support.typora.io/zh/Markdown-Reference/
 
-[2]:
+[2]:https://github.com/llf915915/wsy-learning-world/blob/main/%E7%AC%AC%E4%B8%80%E9%98%B6%E6%AE%B5%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3.md
