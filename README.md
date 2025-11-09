@@ -9,8 +9,9 @@
 1. [Markdown练习](https://github.com/llf915915/wsy-learning-world/blob/main/Markdown%E7%BB%83%E4%B9%A0.md)
 2. [Markdown学习笔记](https://github.com/llf915915/wsy-learning-world/blob/main/Markdown%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
 3. [Github学习笔记](https://github.com/llf915915/wsy-learning-world/blob/main/Github%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
-4. [问题解决](https://github.com/llf915915/wsy-learning-world/blob/main/%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3.md)
-
 ## 第二阶段
 1. [git提交练习文档](https://github.com/llf915915/wsy-learning-world/blob/main/Hello.md)
 2. [git学习笔记](https://github.com/llf915915/wsy-learning-world/blob/main/Git%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
+
+## 其他
+1. [问题解决](https://github.com/llf915915/wsy-learning-world/blob/main/%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3.md)
