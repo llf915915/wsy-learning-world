@@ -66,4 +66,5 @@
 
 [1]:https://support.typora.io/zh/Markdown-Reference/
 
-[2]:https://github.com/llf915915/wsy-learning-world/blob/main/%E7%AC%AC%E4%B8%80%E9%98%B6%E6%AE%B5%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3.md
+[2]:https://github.com/llf915915/wsy-learning-world/blob/main/%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3.md
+
