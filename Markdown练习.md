@@ -42,11 +42,11 @@
 
 ## 阻碍的发现
 
-在尝试直接通过链接进入Github时，我发现我完全进入不了，在尝试多次后，突然又发现能够进入了。
+进入Github受到阻碍。
 
 ## 阻碍的解决
 
-通过询问我的mentor，我了解到Github的稳定运行需要加速器来实现，否则就会成为概率事件，于是我在网上搜索了稳定的加速器下载方式，通过操作成功购买了加速器，实现了Github的稳定运维。
+通过使用加速器，解决此问题。
 
 # 如何认为我的这份笔记是否工整
 
@@ -54,6 +54,7 @@
 
 [1]:https://github.com/ntgeek/2025-Geek
 [2]:https://www.bilibili.com/video/BV1m4GhzEER3/?spm_id_from=333.1007.top_right_bar_window_default_collection.content.click&vd_source=3684995f1f6209b9a40ee5e4b340ebc8
+
 
 
 
