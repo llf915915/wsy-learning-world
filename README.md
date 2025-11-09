@@ -13,3 +13,4 @@
 
 ## 第二阶段
 1. [git提交练习文档](https://github.com/llf915915/wsy-learning-world/blob/main/Hello.md)
+2. [git学习笔记](https://github.com/llf915915/wsy-learning-world/blob/main/Git%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
